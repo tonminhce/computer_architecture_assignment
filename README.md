@@ -5,6 +5,6 @@ CAUTION:
 During the first turn of both players, they are not allowed to choose the central point (row 3 & column 3).
 ###########################################################################################################
 
-Because my teacher uses Stanford MOSS system (https://theory.stanford.edu/~aiken/moss/) to check similarity so that i decided to write about 4700 lines to avoid plagiarism.
+Because my teacher used Stanford MOSS system (https://theory.stanford.edu/~aiken/moss/) to check similarity so that i decided to write about 4700 lines to avoid plagiarism.
 
 Have fun !
